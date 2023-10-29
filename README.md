@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning HTML, CSS, and JS for 2 years
 - 💞️ I’m looking to collaborate on websites
-- 📫 How to reach me: @mzvrcy on threads
+- 📫 How to reach me: @mzvrcy on threads/instagram
 
 <!---
 gjagiashvili/gjagiashvili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
