@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @gjagiashvili
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning HTML, CSS, and JS for 2 years
+- 🌱 I’ve been learning HTML, CSS, and JS for 2 years
+- 🫧 I'm Currently learning Java
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me: @mzvrcy on threads/instagram
 
